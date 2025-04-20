@@ -21,3 +21,6 @@ pip install -r requirements.txt
 ```
 streamlit run dashboard.py
 ```
+
+## The app already deployed at:
+https://dicoding-submission-da-sd2tzzeu4ortg8gf8hx5qm.streamlit.app/
